@@ -13,7 +13,10 @@ The data set includes;
 - Instance + material segmentation
 - Camera intrinsic / extrinsics
 
+## Experiments
+We experimented with ToteMVS on a customized version of MVSFormer, which can be found [here](https://github.com/pietertolsma/MVSFormerExperiments).
+
 ## More Samples
 ![](assets/angles.png)
 ![](assets/angles_depth.png)
-![](assets/samplepng.png)``
+![](assets/samplepng.png)
