@@ -5,9 +5,7 @@
   <img src="assets/depth.png" alt="Image 2 " style="width: 30%; height: auto;">
     <img src="assets/seg.png" alt="Image 2" style="width: 30%; height: auto;">
 </div>
-
-## Download ToteMVS
-[Download from Google Drive](www.test.nl)
+<br>
 
 The data set includes;
 - 450 scenes with six camera angles each (see below)
