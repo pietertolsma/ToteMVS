@@ -1,0 +1,3 @@
+[submodule "MVSFormerExperiments"]
+	path = MVSFormerExperiments
+	url = https://github.com/pietertolsma/MVSFormerExperiments
